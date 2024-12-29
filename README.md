@@ -7,7 +7,7 @@ This repository contains two Bash scripts:
 
 ## Usage
 
-#### generate_password.sh
+#### generate_password.sh 
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the scripts.
